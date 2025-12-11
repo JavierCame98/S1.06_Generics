@@ -1,4 +1,4 @@
-package org.example.S0611;
+package org.example.Non_Generic_Methods;
 
 public class Main {
 

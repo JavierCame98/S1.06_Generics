@@ -1,4 +1,4 @@
-package org.example.S0612;
+package org.example.Generic_Methods;
 
 public class Person {
 
